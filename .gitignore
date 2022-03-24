@@ -1,4 +1,3 @@
-
 # Created by https://www.toptal.com/developers/gitignore/api/windows,macos,linux,intellij+all,visualstudiocode,visualstudio,sublimetext,webstorm+all,vim
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,linux,intellij+all,visualstudiocode,visualstudio,sublimetext,webstorm+all,vim
 
@@ -692,3 +691,4 @@ FodyWeavers.xsd
 # Additional files built by Visual Studio
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,macos,linux,intellij+all,visualstudiocode,visualstudio,sublimetext,webstorm+all,vim
+
